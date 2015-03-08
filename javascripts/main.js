@@ -1,4 +1,4 @@
-Console.log("test");
+console.log("test");
 var array = ["hello", "world", "fire"];
 
 for(var e in array) { // e = 0, 1, 2
